@@ -2,6 +2,7 @@
 # a Gemfile as specified at https://github.com/github/pages-gem#conventional
 package-lock.json
 node_modules
+/dist/
 
 # Basic Jekyll gitignores (synchronize to Jekyll.gitignore)
 _site/
